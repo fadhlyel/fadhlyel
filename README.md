@@ -18,9 +18,7 @@
 - **Tools & Technologies**: Git, GitHub, Figma
 - **Databases**: MySQL, Firebase Realtime Database
 
-### 🏆 Projects
-- **[Project A]()**: Description of the project, its features, and technologies used.
-- **[Project B]()**: Description of the project, its impact, and how you contributed.
+
 
 ### 💡 Interests
 - Mobile Development
