@@ -19,8 +19,8 @@
 - **Databases**: MySQL, Firebase Realtime Database
 
 ### 🏆 Projects
-- **[Project A](https://github.com/FadhlyChaniago/project-a)**: Description of the project, its features, and technologies used.
-- **[Project B](https://github.com/FadhlyChaniago/project-b)**: Description of the project, its impact, and how you contributed.
+- **[Project A]()**: Description of the project, its features, and technologies used.
+- **[Project B]()**: Description of the project, its impact, and how you contributed.
 
 ### 💡 Interests
 - Mobile Development
