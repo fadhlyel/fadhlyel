@@ -8,17 +8,15 @@
 - 💬 Ask me about anything related to **mobile development** or **tech for social impact**!
   
 ### 🔗 Connect with me:
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadhlychaniago](https://www.linkedin.com/in/fadhly-el-halim-chaniago-590161283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
-[![Instagram](https://www.instagram.com/fadhlyhchan/)  
-[![Email](fadhly28chaniago@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadhly-el-halim-chaniago-590161283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fadhlyhchan/)  
+[![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadhly28chaniago@gmail.com)
 
 ### 🛠️ Skills
 - **Languages**: Kotlin, Java, Python, C++
 - **Mobile Development**: Android (Kotlin), Firebase, Jetpack Compose
 - **Tools & Technologies**: Git, GitHub, Figma
 - **Databases**: MySQL, Firebase Realtime Database
-
-
 
 ### 💡 Interests
 - Mobile Development
